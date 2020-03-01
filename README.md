@@ -1,0 +1,2 @@
+# Loan-Prediction
+The main objective of this project is to predict the probability of whether assigning the loan to particular person will be safe or not and manage credit risk by using the past data and deciding whom to give the loan in the future. This is done by mining the Data of the previous records of the people to whom the loan was granted before and on the basis of these records the machine is trained using the machine learning model which give the most accurate result.
